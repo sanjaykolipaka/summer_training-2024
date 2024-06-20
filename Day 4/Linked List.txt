@@ -1,0 +1,8 @@
+1. Creating
+2. Adding
+3. Searching
+4. Middle element
+5. Even Odd
+6. Max_sequence
+7. All Pairs
+8. Bubble sort
